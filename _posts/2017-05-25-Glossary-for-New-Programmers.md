@@ -21,6 +21,11 @@ A set of rules or steps to be followed in a problem solving operations.
 
 Example: A recipe for cake.  The problem is how to get cake.  The solution is the recipe algorithm which is a step by step process that if followed returns cake.
 
+
+### Boolean
+
+A data type with only two possible values: true or false.
+
 ####  Business Logic
 
 See this [post](https://softwareengineering.stackexchange.com/questions/234251/what-really-is-the-business-logic)
